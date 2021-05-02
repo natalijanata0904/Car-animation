@@ -1,0 +1,28 @@
+.container{
+    background-color: black;
+    padding-top: 100px;
+    margin-right: 600px;
+    margin-left: 600px;
+}
+.container2{
+    background-color: black;
+    padding-top: 180px;
+    margin-right:350px;
+    margin-left:350px;
+}
+.container3{
+    background-color: black;
+    margin-right: 800px;
+    margin-left: 400px;
+    border-radius: 50px;
+    bottom:200px;
+}
+.container4{
+    background-color: black;
+    margin-left:800px;
+    margin-right:400px;
+    border-radius: 50px;
+    padding-top: 50px;
+    position: relative;
+
+}
